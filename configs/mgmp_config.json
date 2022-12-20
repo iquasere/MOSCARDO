@@ -38,7 +38,7 @@
       "Data type": "protein",
       "Condition": "c2",
       "Name": ""
-    },
+    }
   ],
   "suffix": "",
   "minimum_read_length": 100,
