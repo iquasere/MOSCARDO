@@ -5,35 +5,35 @@
   "threads": 15,
   "experiments": [
     {
-      "Files": "input/mg_R1.fq.gz,input/mg_R2.fq.gz",
+      "Files": "MOSCARDO/input/mg_R1.fq.gz,MOSCARDO/input/mg_R2.fq.gz",
       "Sample": "sample",
       "Data type": "dna",
       "Condition": "",
       "Name": ""
     },
     {
-      "Files": "input/mt1_R1.fq.gz,input/mt1_R2.fq.gz",
+      "Files": "MOSCARDO/input/mt1_R1.fq,MOSCARDO/input/mt1_R2.fq",
       "Sample": "sample",
       "Data type": "mrna",
       "Condition": "c1",
       "Name": ""
     },
 	{
-      "Files": "input/mt2_R1.fq.gz,input/mt2_R2.fq.gz",
+      "Files": "MOSCARDO/input/mt2_R1.fq,MOSCARDO/input/mt2_R2.fq",
       "Sample": "sample",
       "Data type": "mrna",
       "Condition": "c1",
       "Name": ""
     },
 	{
-      "Files": "input/mt3_R1.fq.gz,input/mt3_R2.fq.gz",
+      "Files": "MOSCARDO/input/mt3_R1.fq,MOSCARDO/input/mt3_R2.fq",
       "Sample": "sample",
       "Data type": "mrna",
       "Condition": "c2",
       "Name": ""
     },
 	{
-      "Files": "input/mt4_R1.fq.gz,input/mt4_R2.fq.gz",
+      "Files": "MOSCARDO/input/mt4_R1.fq,MOSCARDO/input/mt4_R2.fq",
       "Sample": "sample",
       "Data type": "mrna",
       "Condition": "c2",

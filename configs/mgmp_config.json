@@ -5,35 +5,35 @@
   "threads": 15,
   "experiments": [
     {
-      "Files": "input/mg_R1.fq.gz,input/mg_R2.fq.gz",
+      "Files": "MOSCARDO/input/mg_R1.fq.gz,MOSCARDO/input/mg_R2.fq.gz",
       "Sample": "sample",
       "Data type": "dna",
       "Condition": "",
       "Name": ""
     },
     {
-      "Files": "input/mp1",
+      "Files": "MOSCARDO/input/mp1",
       "Sample": "sample",
       "Data type": "protein",
       "Condition": "c1",
       "Name": ""
     },
 	{
-      "Files": "input/mp2",
+      "Files": "MOSCARDO/input/mp2",
       "Sample": "sample",
       "Data type": "protein",
       "Condition": "c1",
       "Name": ""
     },
     {
-      "Files": "input/mp3",
+      "Files": "MOSCARDO/input/mp3",
       "Sample": "sample",
       "Data type": "protein",
       "Condition": "c2",
       "Name": ""
     },
     {
-      "Files": "input/mp4",
+      "Files": "MOSCARDO/input/mp4",
       "Sample": "sample",
       "Data type": "protein",
       "Condition": "c2",
