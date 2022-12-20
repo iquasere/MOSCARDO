@@ -45,7 +45,7 @@
   "minimum_read_average_quality": 20,
   "do_assembly": true,
   "max_memory": 100,
-  "assembler": "megahit",
+  "assembler": "metaspades",
   "error_model": "illumina_5",
   "markerset": "40",
   "do_iterative_binning": true,
