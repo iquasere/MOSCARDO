@@ -52,6 +52,7 @@
   "upimapi_database": "uniprot",
   "upimapi_max_target_seqs": 1,
   "upimapi_taxids": "196137,143067,2159,213465,213422,213421,68298",
+  "upimapi_check_db": true,
   "uniprot_columns": [
     "Entry",
     "Entry name",
