@@ -49,7 +49,7 @@
   "error_model": "illumina_5",
   "markerset": "40",
   "do_iterative_binning": true,
-  "upimapi_database": "uniprot",
+  "upimapi_database": "taxids",
   "upimapi_max_target_seqs": 1,
   "upimapi_taxids": "196137,143067,2159,213465,213422,213421,68298",
   "upimapi_check_db": true,
