@@ -48,12 +48,12 @@
   "assembler": "trinity",
   "error_model": "illumina_5",
   "markerset": "40",
-  "do_iterative_binning": true,
+  "do_iterative_binning": false,
   "split_gene_calling": 1,
   "upimapi_database": "taxids",
   "upimapi_max_target_seqs": 1,
   "upimapi_taxids": "196137,143067,2159,213465,213422,213421,68298",
-  "upimapi_check_db": false,
+  "upimapi_check_db": true,
   "uniprot_columns": [
     "Entry",
     "Entry name",
@@ -72,9 +72,9 @@
     "Taxonomic lineage (ORDER)",
     "Taxonomic lineage (FAMILY)",
     "Taxonomic lineage (GENUS)",
-    "Taxonomic identifier (GENUS)",
+    "Taxonomic lineage IDs (GENUS)",
     "Taxonomic lineage (SPECIES)",
-    "Taxonomic identifier (SPECIES)"
+    "Taxonomic lineage IDs (SPECIES)"
   ],
   "uniprot_databases": [
     "BioCyc Collection of Pathway/Genome Databases",
