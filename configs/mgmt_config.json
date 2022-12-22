@@ -88,7 +88,7 @@
     "NCBI Reference Sequences",
     "UniPathway: a resource for the exploration and annotation of metabolic pathways"
   ],
-  "download_cdd_resources": false,
+  "download_cdd_resources": true,
   "recognizer_databases": [
     "CDD",
     "Pfam",
