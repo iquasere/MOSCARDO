@@ -48,7 +48,7 @@
   "assembler": "metaspades",
   "error_model": "illumina_5",
   "markerset": "40",
-  "do_iterative_binning": true,
+  "do_iterative_binning": false,
   "split_gene_calling": 1,
   "upimapi_database": "uniprot",
   "upimapi_max_target_seqs": 1,
