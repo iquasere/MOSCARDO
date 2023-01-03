@@ -1,7 +1,7 @@
 {
   "version": "1.6.1",
-  "output": "/outside/real_mgmp_output",
-  "resources_directory": "/outside/resources_directory",
+  "output": "output",
+  "resources_directory": "resources_directory",
   "threads": 15,
   "experiments": [
     {
