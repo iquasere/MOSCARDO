@@ -5,7 +5,7 @@
   "threads": 15,
   "experiments": [
     {
-      "Files": "MOSCARDO/input/mg_R1.fq.gz.gz,MOSCARDO/input/mg_R2.fq.gz",
+      "Files": "MOSCARDO/input/mg_R1.fq.gz,MOSCARDO/input/mg_R2.fq.gz",
       "Sample": "sample",
       "Data type": "dna",
       "Condition": "",
