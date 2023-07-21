@@ -109,6 +109,7 @@
   "protease": "Trypsin",
   "protease_file": "",
   "false_discovery_rate": 0.05,
+  "imputation_method": "MIN",
   "keggcharter_taxa_level": "SPECIES",
   "keggcharter_number_of_taxa": 10,
   "keggcharter_maps": [
