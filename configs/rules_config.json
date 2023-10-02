@@ -115,5 +115,5 @@
   "keggcharter_maps": [
     "00680"
   ],
- "inside_containers": true
+ "inside_container": true
 }
