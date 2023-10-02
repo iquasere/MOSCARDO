@@ -108,11 +108,12 @@
   "reference_proteomes_taxa_level": "SPECIES",
   "protease": "Trypsin",
   "protease_file": "",
-  "false_discovery_rate": 0.05,
+  "significance_threshold": 0.05,
   "imputation_method": "LLS",
   "keggcharter_taxa_level": "SPECIES",
   "keggcharter_number_of_taxa": 10,
   "keggcharter_maps": [
     "00680"
-  ]
+  ],
+ "inside_containers": true
 }
