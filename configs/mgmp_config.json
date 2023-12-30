@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.2.0",
   "output": "output",
   "resources_directory": "resources_directory",
   "threads": 15,
@@ -49,23 +49,21 @@
   "markerset": "40",
   "do_binning": false,
   "do_iterative_binning": false,
-  "split_gene_calling": 1,
   "upimapi_search_mode": "fast",
   "upimapi_database": "uniprot",
   "upimapi_max_target_seqs": 1,
   "upimapi_taxids": "196137,143067,2159,213465,213422,213421,68298",
-  "upimapi_check_db": false,
   "uniprot_columns": [
     "Entry",
     "Entry Name",
-    "Gene names",
+    "Gene Names",
     "Protein names",
     "EC number",
     "Function [CC]",
     "Pathway",
     "Keywords",
     "Protein existence",
-    "Gene ontology (GO)",
+    "Gene Ontology (GO)",
     "Protein families",
     "Taxonomic lineage (SUPERKINGDOM)",
     "Taxonomic lineage (PHYLUM)",
@@ -88,7 +86,6 @@
     "RefSeq",
     "UniPathway"
   ],
-  "download_cdd_resources": true,
   "recognizer_databases": [
     "CDD",
     "Pfam",
@@ -117,3 +114,4 @@
   ],
  "inside_container": true
 }
+
