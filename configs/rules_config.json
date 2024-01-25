@@ -40,7 +40,8 @@
       "Name": ""
     }
   ],
-  "minimum_read_length": 50,
+  "minimum_mg_read_length": 50,
+  "minimum_mt_read_length": 50,
   "minimum_read_average_quality": 20,
   "do_assembly": true,
   "max_memory": 100,
@@ -58,14 +59,14 @@
   "uniprot_columns": [
     "Entry",
     "Entry Name",
-    "Gene names",
+    "Gene Names",
     "Protein names",
     "EC number",
     "Function [CC]",
     "Pathway",
     "Keywords",
     "Protein existence",
-    "Gene ontology (GO)",
+    "Gene Ontology (GO)",
     "Protein families",
     "Taxonomic lineage (SUPERKINGDOM)",
     "Taxonomic lineage (PHYLUM)",

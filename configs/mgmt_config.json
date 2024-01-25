@@ -39,7 +39,8 @@
       "Name": ""
     }
   ],
-  "minimum_read_length": 50,
+  "minimum_mg_read_length": 100,
+  "minimum_mt_read_length": 50,
   "minimum_read_average_quality": 20,
   "do_assembly": true,
   "max_memory": 100,
