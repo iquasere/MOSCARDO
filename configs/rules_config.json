@@ -40,6 +40,7 @@
       "Name": ""
     }
   ],
+  "sortmerna_database": "fast",
   "minimum_mg_read_length": 50,
   "minimum_mt_read_length": 50,
   "minimum_read_average_quality": 20,
