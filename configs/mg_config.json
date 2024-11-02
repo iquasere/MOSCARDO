@@ -1,0 +1,43 @@
+{
+  "output": "output",
+  "resources_directory": "resources_directory",
+  "threads": 15,
+  "experiments": [
+    {
+      "Files": "MOSCARDO/input/mg_R1.fq.gz,MOSCARDO/input/mg_R2.fq.gz",
+      "Sample": "sample_a",
+      "Data type": "dna",
+      "Condition": "",
+      "Name": "mg1"
+    },
+    {
+      "Files": "MOSCARDO/input/mg_R2.fq.gz,MOSCARDO/input/mg_R1.fq.gz",
+      "Sample": "sample_b",
+      "Data type": "dna",
+      "Condition": "",
+      "Name": "mg2"
+    }
+  ],
+  "minimum_mg_read_length": 100,
+  "minimum_mt_read_length": 50,
+  "minimum_read_average_quality": 20,
+  "rrna_database": "fast",
+  "do_assembly": true,
+  "max_memory": 100,
+  "assembler": "metaspades",
+  "markerset": "40",
+  "do_binning": false,
+  "do_iterative_binning": false,
+  "upimapi_search_mode": "fast",
+  "upimapi_database": "taxids",
+  "upimapi_max_target_seqs": 1,
+  "upimapi_taxids": "2159,213465",
+  "normalization_method": "TMM",
+  "minimum_differential_expression": 1,
+  "keggcharter_taxa_level": "GENUS",
+  "keggcharter_number_of_taxa": 10,
+  "keggcharter_maps": [
+    "00071"
+  ],
+ "inside_container": true
+}
