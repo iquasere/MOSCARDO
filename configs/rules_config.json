@@ -90,17 +90,6 @@
     "RefSeq",
     "UniPathway"
   ],
-  "download_cdd_resources": true,
-  "recognizer_databases": [
-    "CDD",
-    "Pfam",
-    "NCBIfam",
-    "Protein_Clusters",
-    "Smart",
-    "TIGRFAM",
-    "COG",
-    "KOG"
-  ],
   "normalization_method": "TMM",
   "minimum_differential_expression": 1,
   "proteomics_workflow": "compomics",
